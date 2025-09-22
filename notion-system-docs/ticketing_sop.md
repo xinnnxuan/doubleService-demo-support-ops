@@ -25,11 +25,17 @@ This improves reproducibility, debugging, and response time.
 
 ## 🧠 Example Ticket Table
 
-| 🎫 Ticket Title     | 🧪 Reproduction Steps                                                  | 🎯 Priority | 🔁 Status        | 🛠️ Assigned |
-|--------------------|------------------------------------------------------------------------|------------|------------------|-------------|
-| Login fails        | 1. Visit /login <br> 2. Input creds <br> 3. Click submit               | 🔴 High    | In Progress      | Alex        |
-| PDF download fails | 1. Submit Form 998 <br> 2. Click "Download PDF" <br> 3. Error 404      | 🟡 Medium  | Open             | TBD         |
-| Wrong field label  | 1. Open form <br> 2. Field says "County" instead of "City"             | 🟢 Low     | Waiting for UAT  | Bella       |
+| 🎫 Ticket Title.  | 🧪 Reproduction Steps                                    
+| 🎯Priority | 🔁 Status         | 🛠️ Assigned |
+
+| Login fails       | 1. Visit /login <br> 2. Input creds <br> 3. Click submit
+| 🔴 High    | In Progress       | Alex        |
+
+| PDF download fails| 1. Submit Form 998 <br> 2. Click "Download PDF" <br> 3. Error 404      
+| 🟡 Medium  | Open              | TBD         |
+
+| Wrong field label  | 1. Open form <br> 2. Field says "County" instead of "City"             
+| 🟢 Low     | Waiting for UAT   | Bella       |
 
 ---
 
